@@ -23,7 +23,7 @@ sentiments_overview_visualizations.py: Overview of sentiments data is created us
 
 split_tags.py: Calculating the number of views every tag has received
 
-extracting_wikipedia_data.py: Using wikipedia API to extract author nationality details
+extracting_wikipedia_data.py: Using wikipedia API to extract speaker nationality details
 
 extracting_transcript_sentences.py: Extract transcript sentiments per minute for the top 5 and bottom 5 videos sorted on the basis of likes
 
